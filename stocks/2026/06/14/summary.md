@@ -30,4 +30,3 @@ Fri: Market closed — Juneteenth
 
 **Bottom line:** FOMC outcome dominates. SpaceX IPO resets risk appetite. Anthropic story adds regulatory uncertainty to AI trade. Short week means active positioning ahead of holiday.
 
-Full briefing: https://github.com/ryanpetris/clawrchive/blob/master/stocks/2026/06/14/details.md
